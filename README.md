@@ -39,4 +39,9 @@ Use the forward() and right() methods to draw the sides of the squares.
 7. Give an example of an undecidable problem, attach code.
    
 
+# Zero Condition vs Infinite Loops:
 
+Zero Condition: A loop that never starts
+Infinite Loop: A loop that repeats forever
+
+Zero conditions and infinite loops are essentially opposites of eachother by definition, both loops are often based on while loops. A zero condition happens when the while statement remains false, not allowing the loop to iterate through, and an infinite loop happens when a while statement remains true, allowing the loop to iterate through infinetly. 
