@@ -44,4 +44,9 @@ Use the forward() and right() methods to draw the sides of the squares.
 Zero Condition: A loop that never starts
 Infinite Loop: A loop that repeats forever
 
-Zero conditions and infinite loops are essentially opposites of eachother by definition, both loops are often based on while loops. A zero condition happens when the while statement remains false, not allowing the loop to iterate through, and an infinite loop happens when a while statement remains true, allowing the loop to iterate through infinetly. 
+Zero conditions and infinite loops are essentially opposites of eachother by definition, both loops are often based on while loops. A zero condition happens when the while statement remains false, not allowing the loop to iterate through, and an infinite loop happens when a while statement remains true, allowing the loop to iterate through infinetly.
+
+# Step 17, 18, and 19
+
+![image](https://github.com/user-attachments/assets/f9ce4cf7-4271-4979-bf64-570f38dd08ba)
+
