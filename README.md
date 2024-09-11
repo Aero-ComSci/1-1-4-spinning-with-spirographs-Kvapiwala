@@ -48,5 +48,9 @@ Zero conditions and infinite loops are essentially opposites of eachother by def
 
 # Step 17, 18, and 19
 
-![image](https://github.com/user-attachments/assets/f9ce4cf7-4271-4979-bf64-570f38dd08ba)
+17. ![image](https://github.com/user-attachments/assets/f9ce4cf7-4271-4979-bf64-570f38dd08ba)
+
+18. ![image](https://github.com/user-attachments/assets/4f89bd9e-8544-478d-a409-77c72004a14f)
+
+19. ![image](https://github.com/user-attachments/assets/4f3374dd-9083-46bb-887c-8a33aaabad4d)
 
