@@ -54,3 +54,7 @@ Zero conditions and infinite loops are essentially opposites of eachother by def
 
 19. ![image](https://github.com/user-attachments/assets/4f3374dd-9083-46bb-887c-8a33aaabad4d)
 
+# Step 21
+![image](https://github.com/user-attachments/assets/56c151f0-9f39-4a7a-b2fb-52fbab76f4ea)
+
+The algorithm this image represents is an algorithm that uses a conditional to determine a value true, if it is true it repeats the pattern forever since it it becomes an infinite loop. Since there is a conditional, if the value remains false then the algorithm is a zero conditional and does not execute. Hence this algorithm in this image is a mix of zero condition and infinite loop.
