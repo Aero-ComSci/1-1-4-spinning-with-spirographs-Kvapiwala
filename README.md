@@ -66,3 +66,11 @@ Main Algorithm:
 
 Error Proofing: ![image](https://github.com/user-attachments/assets/3c603674-652c-47cb-8ced-ecdf818c2916)
 
+# Undecidable Problem:
+
+In simple, An undecidable problem is a problem that does not have an algorithm that can give a definite yes or no answer.
+![image](https://github.com/user-attachments/assets/20f3ea5e-005a-46e8-bacb-282982191aa0)
+
+This is my example of a undecidable algorithm, it just runs forever and does absolutely nothing, and has no definite yes or no answer, additionally, there is no outside factor that can stop this algorithm.
+
+
