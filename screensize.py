@@ -1,7 +1,7 @@
 
 import turtle as trtl
 trtl.Screen().bgcolor("light green")
-trtl.screensize(800,800)
+trtl.setup(800,800)
 painter = trtl.Turtle()
 painter.speed(15)
 
@@ -10,12 +10,12 @@ painter.speed(15)
 colors_list = ["light blue", "maroon", "orchid", "dark green", "gold","light blue", "maroon", "orchid", "dark green", "gold","light blue", "maroon", "orchid", "dark green", "gold", "red"]
 x = -375 
 y = -375
-move = 25
-forward = 800
-painter.pensize(10)
+move = 75
+forward = 900
+painter.pensize(50)
 
 #Draw 5 squares
-for i in range(16):
+for i in range(5):
     painter.goto(x,y)
     x = x + move
     y = y + move
