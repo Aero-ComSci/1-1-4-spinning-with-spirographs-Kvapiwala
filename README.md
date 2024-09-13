@@ -40,7 +40,7 @@ Use the forward() and right() methods to draw the sides of the squares.
 
 
 # Concentric Square and ScreenSize Program:
-  see files attached
+  see files attached, Contains a walkthrough of whats happening in the comments of the code
 
 # Zero Condition vs Infinite Loops:
 
