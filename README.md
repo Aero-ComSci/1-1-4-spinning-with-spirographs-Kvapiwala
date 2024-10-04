@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/SkD24yV8)
 # 1.1.4Spirographs
 
 *Complete the following.*
@@ -36,6 +37,43 @@ Use the forward() and right() methods to draw the sides of the squares.
 5. Answer to step 21
 6. Insert a screenshot or picture of the algorith you used for your tokenizer on the previous activity.
 7. Give an example of an undecidable problem, attach code.
-   
+
+
+# Concentric Square and ScreenSize Program:
+  see files attached, Contains a walkthrough of whats happening in the comments of the code
+
+# Zero Condition vs Infinite Loops:
+
+Zero Condition: A loop that never starts
+Infinite Loop: A loop that repeats forever
+
+Zero conditions and infinite loops are essentially opposites of eachother by definition, both loops are often based on while loops. A zero condition happens when the while statement remains false, not allowing the loop to iterate through, and an infinite loop happens when a while statement remains true, allowing the loop to iterate through infinetly.
+
+# Step 17, 18, and 19
+
+17. ![image](https://github.com/user-attachments/assets/f9ce4cf7-4271-4979-bf64-570f38dd08ba)
+
+18. ![image](https://github.com/user-attachments/assets/4f89bd9e-8544-478d-a409-77c72004a14f)
+
+19. ![image](https://github.com/user-attachments/assets/4f3374dd-9083-46bb-887c-8a33aaabad4d)
+
+# Step 21
+![image](https://github.com/user-attachments/assets/56c151f0-9f39-4a7a-b2fb-52fbab76f4ea)
+
+The algorithm this image represents is an algorithm that uses a conditional to determine a value true, if it is true it repeats the pattern forever since it it becomes an infinite loop. Since there is a conditional, if the value remains false then the algorithm is a zero conditional and does not execute. Hence this algorithm in this image is a mix of zero condition and infinite loop.
+
+# Tokenizer from flower code:
+
+Main Algorithm: 
+![image](https://github.com/user-attachments/assets/49985a5b-6ab3-447c-93fb-2db3d9b1f2c2)
+
+Error Proofing: ![image](https://github.com/user-attachments/assets/3c603674-652c-47cb-8ced-ecdf818c2916)
+
+# Undecidable Problem:
+
+In simple, An undecidable problem is a problem that does not have an algorithm that can give a definite yes or no answer.
+![image](https://github.com/user-attachments/assets/20f3ea5e-005a-46e8-bacb-282982191aa0)
+
+This is my example of a undecidable algorithm, it just runs forever and does absolutely nothing, and has no definite yes or no answer, additionally, there is no outside factor that can stop this algorithm.
 
 
